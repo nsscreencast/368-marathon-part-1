@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/ben/Desktop/marathon/tracker/.build/checkouts/crypto.git-9199883358946740527/Sources/CCryptoOpenSSL/include"
+    export *
+}
